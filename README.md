@@ -1,21 +1,24 @@
-# Grasshopper_Mesh2Mesh_Tiling
+# Grasshopper Mesh2Mesh Tiling
 
-15394 Final Project
+## 15394 Final Project
 Shiva Peri
 
-***** Brief *****
+### Brief
 
 For my final project I wanted to make a Grasshopper script to combine meshes via a customizable tiling pattern. I wanted to make this because of the potential creative and artistic applications of being able to permute meshes in this way. 
 
+### Examples
+![Demo 1](https://github.com/shivaPeri/Grasshopper_Mesh2Mesh_Tiling/blob/main/demos/mug_1.png)
 
-***** Ideation *****
+
+### Ideation
 
 When I was in 12th grade I made a mesh which called Bubble Rocky. I've included it here for clarity. However, I made this mesh in Fusion360 by manually creating, scaling, and positioning the spheres. I realized that Grasshopper has several ways for manipulating groups of vectors via parameters. The intention of working with vectors is that the direction and length can be mapped to the orientation and scale of the "tile" mesh. However, I was only able to achieve the tiling of a Grasshopper defined cylinder.
 
 Also, the projects Meander (http://roberthodgin.com/project/meander) and Shiv Integer (https://www.plummerfernandez.com/shiv-integer/) were inspiring references.
 
 
-***** Challenges *****
+### Challenges
 
  - extremely large file sizes
  - understanding the differences between meshes and surfaces
@@ -24,14 +27,14 @@ Also, the projects Meander (http://roberthodgin.com/project/meander) and Shiv In
    Instead I was able to only achieve using a Grasshopper defined simple geometry (ie. Cylinder, sphere, etc) as the tiling mesh.
 
 
-***** Included Files *****
+### Included Files
 
  - Screenshots of the various creations I made with my script
  - STL files I used from thingiverse
  - The STL FunkyVase is a mesh that I made for an old project in high school
 
 
-***** Excluded Files *****
+### Excluded Files *****
 
 Because I had extremely large file sizes, I have selected to not include them here. Rather below is a link to a Google drive folder which contains the STL files, Rhino Files, and the actual Grasshopper scripts.
 
@@ -41,7 +44,7 @@ Link (https://drive.google.com/drive/folders/1qeCySUGD1fT_c4megKPFY0PMxdnIYyGy?u
 
 
 
-***** How the Script works *****
+### How the Script works
 
   1. Import an STL as a mesh into Rhino
   2. Select that mesh for the input in Grasshopper
@@ -56,7 +59,7 @@ Link (https://drive.google.com/drive/folders/1qeCySUGD1fT_c4megKPFY0PMxdnIYyGy?u
  11. Bake and export
 
 
-***** Referenced Works *****
+### Referenced Works
 
 STLs from Thingiverse
  - skull (https://www.thingiverse.com/thing:441087)
