@@ -1,7 +1,6 @@
 # Grasshopper Mesh2Mesh Tiling
 
 ## 15394 Final Project
-Shiva Peri
 
 ### Brief
 
