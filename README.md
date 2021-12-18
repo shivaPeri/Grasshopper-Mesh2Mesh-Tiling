@@ -9,23 +9,23 @@ For my final project I wanted to make a Grasshopper script to combine meshes via
 
 ### Examples
 <p>
- <img width="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/mug_1.png"/>
- <img width="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/mug_2.png"/>
- <img width="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/mug_3.png"/>
+ <img height="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/mug_1.png"/>
+ <img height="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/mug_2.png"/>
+ <img height="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/mug_3.png"/>
 </p>
 Tiling a cylinder on a mug
 
 <p>
- <img width="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/vase_1.png"/>
- <img width="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/vase_2.png"/>
- <img width="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/vase_3.png"/>
+ <img height="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/vase_1.png"/>
+ <img height="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/vase_2.png"/>
+ <img height="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/vase_3.png"/>
 </p>
 Tiling a cylinder on a vase
 
 <p>
- <img width="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/skull_1.png"/>
- <img width="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/skull_2.png"/>
- <img width="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/skull_3.png"/>
+ <img height="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/skull_1.png"/>
+ <img height="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/skull_2.png"/>
+ <img height="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/skull_3.png"/>
 </p>
 Tiling a cylinder on a skull
 
@@ -33,7 +33,7 @@ Tiling a cylinder on a skull
 
 When I was in 12th grade I made a mesh which called Bubble Rocky. I've included it here for clarity. However, I made this mesh in Fusion360 by manually creating, scaling, and positioning the spheres. I realized that Grasshopper has several ways for manipulating groups of vectors via parameters. The intention of working with vectors is that the direction and length can be mapped to the orientation and scale of the "tile" mesh. However, I was only able to achieve the tiling of a Grasshopper defined cylinder.
 
-Also, the projects Meander (http://roberthodgin.com/project/meander) and Shiv Integer (https://www.plummerfernandez.com/shiv-integer/) were inspiring references.
+Also, the projects [Meander](http://roberthodgin.com/project/meander) and [Shiv Integer](https://www.plummerfernandez.com/shiv-integer/) were inspiring references.
 
 
 ### Challenges
@@ -58,7 +58,7 @@ Because I had extremely large file sizes, I have selected to not include them he
 
 NOTE: Unfortunately the complexity of the geometries I was trying to make forced Rhino to crash. A lot. And I was unable to export the STL or Rhino file for the result of running my script on FunkyVase. I did however include screenshots in this zip file.
 
-Link (https://drive.google.com/drive/folders/1qeCySUGD1fT_c4megKPFY0PMxdnIYyGy?usp=sharing)
+[.stl + .gh + .fdm files](https://drive.google.com/drive/folders/1qeCySUGD1fT_c4megKPFY0PMxdnIYyGy?usp=sharing)
 
 
 
@@ -85,9 +85,9 @@ Link (https://drive.google.com/drive/folders/1qeCySUGD1fT_c4megKPFY0PMxdnIYyGy?u
 ### Referenced Works
 
 STLs from Thingiverse
- - skull (https://www.thingiverse.com/thing:441087)
- - coffee mug (https://www.thingiverse.com/thing:24464)
+ - [skull](https://www.thingiverse.com/thing:441087)
+ - [coffee mug](https://www.thingiverse.com/thing:24464)
 
 Grasshopper Tutorials
- - Mesh to Surface (https://youtu.be/scQGLhSBakI)
- - Scale NU (https://youtu.be/zQc86-ujhQ0)
+ - [Mesh to Surface](https://youtu.be/scQGLhSBakI)
+ - [Scale NU](https://youtu.be/zQc86-ujhQ0)
