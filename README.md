@@ -8,8 +8,26 @@ Shiva Peri
 For my final project I wanted to make a Grasshopper script to combine meshes via a customizable tiling pattern. I wanted to make this because of the potential creative and artistic applications of being able to permute meshes in this way. 
 
 ### Examples
-![Demo 1](https://github.com/shivaPeri/Grasshopper_Mesh2Mesh_Tiling/blob/main/demos/mug_1.png)
+<p>
+ <img width="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/mug_1.png"/>
+ <img width="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/mug_2.png"/>
+ <img width="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/mug_3.png"/>
+</p>
+Tiling a cylinder on a mug
 
+<p>
+ <img width="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/vase_1.png"/>
+ <img width="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/vase_2.png"/>
+ <img width="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/vase_3.png"/>
+</p>
+Tiling a cylinder on a vase
+
+<p>
+ <img width="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/skull_1.png"/>
+ <img width="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/skull_2.png"/>
+ <img width="250" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/skull_3.png"/>
+</p>
+Tiling a cylinder on a skull
 
 ### Ideation
 
@@ -45,6 +63,11 @@ Link (https://drive.google.com/drive/folders/1qeCySUGD1fT_c4megKPFY0PMxdnIYyGy?u
 
 
 ### How the Script works
+
+<p>
+ <img height="200" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/attractor_points.png"/>
+ <img height="200" src="https://github.com/shivaPeri/Grasshopper-Mesh2Mesh-Tiling/blob/main/demos/surface_to_mesh.png"/>
+</p>
 
   1. Import an STL as a mesh into Rhino
   2. Select that mesh for the input in Grasshopper
