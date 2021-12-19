@@ -51,13 +51,13 @@ Also, the projects [Meander](http://roberthodgin.com/project/meander) and [Shiv 
  - The STL FunkyVase is a mesh that I made for an old project in high school
 
 
-### Excluded Files *****
+### Excluded Files
 
 Because I had extremely large file sizes, I have selected to not include them here. Rather below is a link to a Google drive folder which contains the STL files, Rhino Files, and the actual Grasshopper scripts.
 
 NOTE: Unfortunately the complexity of the geometries I was trying to make forced Rhino to crash. A lot. And I was unable to export the STL or Rhino file for the result of running my script on FunkyVase. I did however include screenshots in this zip file.
 
-[.stl + .gh + .fdm files](https://drive.google.com/drive/folders/1qeCySUGD1fT_c4megKPFY0PMxdnIYyGy?usp=sharing)
+[.stl + .gh + .3dm files](https://drive.google.com/drive/folders/1qeCySUGD1fT_c4megKPFY0PMxdnIYyGy?usp=sharing)
 
 
 
